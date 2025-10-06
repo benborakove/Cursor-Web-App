@@ -1,2 +1,2 @@
-# Cursor-Web-App
-iOS app that manages certifications
+# Cursor-Cert-App
+android app that manages certifications
